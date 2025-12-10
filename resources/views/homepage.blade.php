@@ -10,6 +10,9 @@
 
     <h1>Welcome to Keke Hire Purchase</h1>
     <p>Your trusted partner for all your hire purchase needs.</p>
-    
+ 
+    <p>Register <a href="/register"> HERE </a> to get started!</p>
+
+    <p>Already have an account? <a href="/login"> Login </a> </p>
 </body>
 </html>

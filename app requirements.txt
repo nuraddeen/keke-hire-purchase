@@ -1,0 +1,12 @@
+app requirements
+short description; a keke napep hire purchase app
+
+1. people can apply for keke - rider
+2. application can be reviewed and approved - admin
+3. assigning keke -admin
+4. Payment tracking - admin (manual) rider (online)
+5. Keke release - system
+6. Keke registration - admin
+7. email notification for events
+
+* 2 users, rider and admin
